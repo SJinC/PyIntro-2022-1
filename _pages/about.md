@@ -5,15 +5,15 @@ permalink: /about/
 ---
 
 
-##Python 과목 성적 
+## Python 과목 성적 
 
 `-` A+
 
-##Python 과목 공부 이유
+## Python 과목 공부 이유
 
 `-` AI Engineer가 되기 위해..
 
-##Python 과목 공부를 위한 참고 자료들
+## Python 과목 공부를 위한 참고 자료들
 
 `-` 전북대학교 통계학과 최규빈 교수님 강의
 
